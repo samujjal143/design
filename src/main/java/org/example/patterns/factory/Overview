@@ -1,0 +1,6 @@
+1. The FACTORY METHOD pattern is a creational design pattern which loosens the coupling of a given code by
+separating the product's construction code from the code that uses this product.
+2. If we have no idea of the exact types of the objects our code will work with, we should use this pattern as it
+makes it easy to extend the product construction code independently from the rest of the application and hence
+allows introducing new types products without breaking existing code.
+3. It centralizes the product creation code in one place in the program.

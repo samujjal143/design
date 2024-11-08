@@ -1,0 +1,7 @@
+1. The ADAPTER pattern is a structural design pattern that allows objects with incompatible interfaces to
+collaborate with one another.
+2. It uses inheritance and composition to enable objects with incompatible interfaces to collaborate with one
+another. To do that, it creates a middle-layer class that serves as a translator.
+3. By following the adapter pattern we will be applying the Single Responsibility Principle and the Open-Closed
+Principles because the adapting behaviour is now separated and we can introduce new adapters without breaking
+existing code.

@@ -1,0 +1,6 @@
+1. The STATE pattern is a BEHAVIORAL design pattern that allows an object alter its behavior
+when its internal state changes
+2. The state pattern allows us to extract each logic to a separate class and let the context
+delegate the behaviour to the corresponding state class
+3. By following the state pattern, we will be applying the Single Responsibility and the Open-Closed Principles
+because each state is now organised in a separate class, and we can easily introduce new states

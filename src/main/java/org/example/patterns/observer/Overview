@@ -1,0 +1,6 @@
+1. The OBSERVER design pattern is a behavioral design pattern that notifies multiple objects or subscribers
+about any events that happen to the object they're observing or publisher.
+2. The observer pattern allows us to change or take action on a set of objects when and if the state of another
+object changes. This can be done even if the modifiable set of objects is unknown beforehand or changes dynamically.
+3. By using this pattern, we can introduce new subscriber classes without having to change the publisher's code, and
+vice versa if there's a publisher interface.

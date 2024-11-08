@@ -1,0 +1,5 @@
+1. The STRATEGY pattern is a behavioral design pattern that lets us define a family of algorithms, put each of them
+into a separate class, and make their objects interchangeable. By doing this, our strategies are easily replaceable
+and interchangeable by clients at runtime.
+2. By following the strategy pattern, we will be able to apply the Single Responsibility and the Open-Closed Principles,
+because each strategy is now isolated in a separate class, and we can easily introduce new strategies.
